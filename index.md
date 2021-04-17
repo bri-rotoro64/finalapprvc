@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](youtube.com) and ![image] "![download](https://user-images.githubusercontent.com/54250376/115123817-668dca80-9f84-11eb-871e-fca9f18d4e16.jpeg)
+[Link](youtube.com) and ![download](https://user-images.githubusercontent.com/54250376/115123817-668dca80-9f84-11eb-871e-fca9f18d4e16.jpeg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
